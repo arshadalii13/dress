@@ -1,0 +1,17 @@
+# Node dependencies - never upload this to GitHub
+node_modules/
+
+# Environment variables - keep these secret
+.env
+
+# PHP legacy files (not needed)
+upload.php
+api.php
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
